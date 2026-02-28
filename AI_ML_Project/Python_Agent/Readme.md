@@ -30,8 +30,8 @@ CSV → untuk Python Agent (pandas analysis)
 SQLite DB → untuk SQL Agent (database querying)
 
 🤖 System Architecture
-1️⃣ SQL Agent
 
+1️⃣ SQL Agent
 Digunakan untuk:
 
 Query database menggunakan natural language
@@ -74,4 +74,5 @@ Project ini menunjukkan implementasi AI Agent untuk:
 Analisis data
 Query database
 Natural language interaction
+
 Pendekatan agent-based membuat sistem lebih fleksibel, aman, dan powerful dibandingkan chatbot berbasis retrieval biasa.
